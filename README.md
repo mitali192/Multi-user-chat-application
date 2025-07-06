@@ -22,7 +22,8 @@ Make sure `server.py` and `client.py` are in the same directory.
 ## 2. Create and Activate a Virtual Environment (Optional)
 ```bash
 python -m venv venv
-source venv/bin/activate`````````  # On Windows: venv\Scripts\activate
+source venv/bin/activate # On Windows: venv\Scripts\activate
+```
 
 ## 3. Install Dependencies
 No external libraries required – uses only the Python standard library.
@@ -30,12 +31,14 @@ No external libraries required – uses only the Python standard library.
 ## 4. Start the Server
 In the first terminal, run:
 ```bash
-python server.py`````````
+python server.py
+```
 
 ## 5. Start the Clients
 In another terminal window (or more), run:
 ```bash
-python client.py`````````
+python client.py
+```
 
 ## 6. Enter Your Nickname
 When prompted, choose a nickname and join the chat.
